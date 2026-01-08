@@ -10,12 +10,13 @@ It is designed for penetration testing teams, red teams, and security researcher
 ## 🎥 Demonstration Video
 
 <p align="center">
-  <a href="assets/xssniper.mp4">
-    <img src="assets/preview.png" alt="Demo Video" width="700">
+  <a href="https://github.com/H4CKMAHII/XSSNIPPER/blob/main/assets/xssniper.mp4?raw=true">
+    <img src="assets/preview.png" width="800" alt="XSSNIPER Demo">
   </a>
 </p>
 
-> Click image to watch the demo video.
+> Click the image to watch/download the demo video.
+
 
 
 ## **Core Capabilities**

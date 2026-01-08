@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+*.csv
+*.json
+*.html
+.env
+venv/
+build/
+dist/
+*.spec

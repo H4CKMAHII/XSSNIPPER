@@ -7,6 +7,16 @@
 It is designed for penetration testing teams, red teams, and security researchers who require accurate payload context detection, automatic DOM analysis, and reporting capabilities aligned with bug bounty submission workflows.
 
 ---
+## 🎥 Demonstration Video
+
+<p align="center">
+  <a href="assets/xssniper.mp4">
+    <img src="assets/preview.png" alt="Demo Video" width="700">
+  </a>
+</p>
+
+> Click image to watch the demo video.
+
 
 ## **Core Capabilities**
 

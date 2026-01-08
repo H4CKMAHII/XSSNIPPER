@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 ---
 
 ## v1.0.0 — Initial Release
-**Date:** YYYY-MM-DD
+**Date:** 2026-01-08
 
 ### Added
 - Core scanning engine (GET/POST support)
